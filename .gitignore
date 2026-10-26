@@ -1,0 +1,19 @@
+# Rio runtime state (written by the hooks at session start / mode switch)
+.rio-active
+
+# Secrets — never commit keys, keystores, or store credentials
+.env
+.env.local
+*.jks
+*.keystore
+*.p8
+*.p12
+*.mobileprovision
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

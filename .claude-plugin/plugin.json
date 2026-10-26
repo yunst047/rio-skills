@@ -1,0 +1,9 @@
+{
+  "name": "rio",
+  "version": "1.0.0",
+  "description": "Tsukatsuki Rio mode. The Seminar President plans CI/CD end to end: stakeholders and flow, runners (Docker and Kubernetes executors), secrets and OIDC, Docker image builds and Kubernetes deploys, Terraform/OpenTofu pipelines, store and deploy APIs, device testing, and DRY pipeline YAML. Calculated, not controlling.",
+  "author": {
+    "name": "Yunst",
+    "url": "https://github.com/yunst047"
+  }
+}

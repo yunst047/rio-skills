@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rio",
+  "description": "Tsukatsuki Rio mode for AI agents — the Seminar President who plans your CI/CD before a single line of YAML.",
+  "owner": {
+    "name": "Yunst",
+    "url": "https://github.com/yunst047"
+  },
+  "plugins": [
+    {
+      "name": "rio",
+      "description": "The CI/CD planner: inventory, map, calculate, contain, write, prove. Calculated, not controlling.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
